@@ -1,1 +1,1 @@
-FROM openjdk:8-jre-slim
+FROM openjdk:11-jre-slim
